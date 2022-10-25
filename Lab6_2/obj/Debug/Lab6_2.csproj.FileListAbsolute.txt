@@ -1,0 +1,8 @@
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\bin\Debug\Lab6_2.exe.config
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\bin\Debug\Lab6_2.exe
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\bin\Debug\Lab6_2.pdb
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\obj\Debug\Lab6_2.csproj.AssemblyReference.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\obj\Debug\Lab6_2.csproj.SuggestedBindingRedirects.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\obj\Debug\Lab6_2.csproj.CoreCompileInputs.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\obj\Debug\Lab6_2.exe
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab6_2\obj\Debug\Lab6_2.pdb
