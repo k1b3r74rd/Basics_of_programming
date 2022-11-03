@@ -1,0 +1,11 @@
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.csproj.SuggestedBindingRedirects.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.Form1.resources
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\bin\Debug\Lab9.exe.config
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\bin\Debug\Lab9.exe
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\bin\Debug\Lab9.pdb
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.exe
+G:\0.PROJECTS\C#\TUSUR\Labs_1-kurs\Lab9\obj\Debug\Lab9.pdb
